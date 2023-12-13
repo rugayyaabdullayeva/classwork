@@ -22,7 +22,7 @@ li {
     list-style: none;
 }
 
-/* svg {
+svg {
     fill: white;
 }
 
@@ -107,7 +107,7 @@ li {
     text-align: center;
     margin: 20% auto;
     color: white;
-} */
+}
 img {
     max-width: 100%;
     height: auto;
@@ -119,11 +119,4 @@ p{
 }
 .icon-box .icon-box-title h6 {
     margin:12px 0;
-}
-
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
